@@ -1,3 +1,25 @@
 # Digital Scholarship Portfolio: Rigel Quindipan
 
+!
+
 Welcome to my online portfolio for IASC 2P02
+
+## Interactive Study Guide
+
+Explore my interactive study guide. 
+
+## Interactive Genealogy 
+
+Explore my ineractive genealogy here. 
+
+# Speculative Fiction
+
+## Title of your story here
+
+...
+
+## Micro Essay
+
+...
+
+## Interactive Timeline
