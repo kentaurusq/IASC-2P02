@@ -1,6 +1,6 @@
 # Digital Scholarship Portfolio: Rigel Quindipan
 
-!
+!.[](keyboardaesthetic.jpg)
 
 Welcome to my online portfolio for IASC 2P02
 
